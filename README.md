@@ -1,0 +1,2 @@
+Output - { name: 'ajay', email: 'soni.ajay79@gmail.com' }
+JWT Token -  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7Im5hbWUiOiJhamF5IiwiZW1haWwiOiJzb25pLmFqYXk3OUBnbWFpbC5jb20ifSwiaWF0IjoxNjIxODI1NjAzLCJleHAiOjE2MjE4MjkyMDN9.WIS8AmWg9YmiFUhmz5u1PvFTq-DQKj8QBXDzW7UllGM
